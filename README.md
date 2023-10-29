@@ -4,6 +4,8 @@ Simulation subject within the Multimedia Engineering degree from the ETSE - Univ
 
 🎞️ Video with the result: https://www.youtube.com/watch?v=5Hp02Ore3pc&t=3s
 
+Build a scene with the primitives offered by Physica, where there are collisions and objects composed of simpler objects (using unions) that are subjected to forces and angular forces (torques). This activity is free. Experiment with the library to create some interesting original scenario, preferably interactive.
+
 ## Project setup
 User Guide:
   - Drag the shuriken with the mouse.
